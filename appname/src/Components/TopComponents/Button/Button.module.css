@@ -1,0 +1,8 @@
+button {
+    /* margin: 20px; */
+    padding: 14px 20px;
+    font-size: 14px;
+    background-color: skyblue;
+    border: 0px;
+    cursor: pointer;
+}

@@ -1,0 +1,44 @@
+.Blogs{
+    width: 800px;
+    min-height: 600px;
+    margin: auto;
+    padding: 15px;
+    display: flexbox;
+    justify-content: center;
+    background-color: aquamarine;
+    border-radius: 10px;
+    flex-wrap: inherit;
+}
+.BlogsMenu{
+    min-width: 100%;
+    height: 60px;
+    display: flex;
+    background: yellow;
+    justify-content: center;
+    align-items: center;
+}
+.BlogsMenu__select{
+    display: flex;
+    height: 60px;
+    justify-content: end;
+}
+.blog {
+    height: 85px;
+    white-space: nowrap;
+    overflow: hidden;
+    display: flex;
+    padding: 15px;
+    margin: 15px;
+    border: 2px solid rgb(0, 0, 0);
+    justify-content: space-between;
+    align-items: center;
+    background-color: aquamarine;
+    border-radius: 15px;
+  }
+.BlogContent{
+    width: 80%;
+  
+}
+.post__bts{
+    margin: 5px;
+}
