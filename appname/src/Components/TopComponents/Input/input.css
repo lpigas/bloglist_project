@@ -1,11 +1,10 @@
-.InnerFormBlog{
-    display: flex;
-    width: 500px;
-    height: 40px;
-    
+.InnerFormBlog {
+  display: flex;
+  width: 500px;
+  height: 40px;
 }
-input{
-    height: max-content;
-    width: 100%;
-    margin: 5px;
+input {
+  height: max-content;
+  width: 100%;
+  margin: 5px;
 }
